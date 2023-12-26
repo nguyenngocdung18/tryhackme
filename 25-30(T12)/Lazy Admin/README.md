@@ -39,6 +39,7 @@ Run it and do nc to connect
 # PRIVILEGE ESCALATION
 ## First,
 I tried sudo -l 
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/d10f1e2f-64c1-4ab8-b63e-55dcc506b70a)
 
 see /usr/bin/perl /home/itguy/backup.pl
@@ -47,6 +48,7 @@ Read file backup.pl
 
 
 Edit the copy.sh file.  I will create a copy of bash and setuid for it 
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/c8a037c6-5c41-477e-a0ed-04b18f3a8632)
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/f616d93c-b4e3-458e-b2a3-74952f8219f6)
 ## Done
