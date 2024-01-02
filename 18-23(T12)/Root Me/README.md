@@ -36,4 +36,5 @@ After upload done. Run script
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/597a7860-2d2e-4e6d-bb6b-309f93be3101)
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/91cd042a-d10f-4764-ab90-56a475287bce)
 
-=> done
+## Done!!
+Thanks for reading. Bye!
