@@ -55,6 +55,7 @@ Continue viewing ubuntu
 
 Use less to view each file. Luckily, right in the first file. We have found the third ingredient
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/368044f9-a5b0-431c-a44c-1dfd8f0e4709)
+
 => the third ingredient: fleeb juice
 ## Done!!!
 Thanks for reading. Bye!
