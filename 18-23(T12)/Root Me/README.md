@@ -11,7 +11,9 @@
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/0ceda9bd-fee8-4e05-8301-7a1f548c5a79)
 # Getting a shell 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/2f30fbba-eb80-4629-843f-72f9822a5bdf)
+
 Change the file extension from .php to .phtml
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/933151f0-ea58-44d7-843c-817bf4a3f154)
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/58c18445-84a3-4f86-8850-fff6c83252f8)
 
@@ -33,7 +35,9 @@ After upload done. Run script
 => search on GTFObins
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/c53760fe-966f-42bd-8036-11e8f15845af)
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/597a7860-2d2e-4e6d-bb6b-309f93be3101)
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/91cd042a-d10f-4764-ab90-56a475287bce)
 
 ## Done!!
