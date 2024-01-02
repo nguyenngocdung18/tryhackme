@@ -46,14 +46,23 @@ see /usr/bin/perl /home/itguy/backup.pl
 ## Then,
 Read file backup.pl
 
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/7aa79a23-6a74-45a3-b194-dd27b2a97a48)
 
 Edit the copy.sh file.  I will create a copy of bash and setuid for it 
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/c8a037c6-5c41-477e-a0ed-04b18f3a8632)
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/f616d93c-b4e3-458e-b2a3-74952f8219f6)
-## Done
-Actually , I can also edit copy.sh file to reverse shell using nc 
+## Done! =))))
+## Actually 
+I can also edit copy.sh file to reverse shell using nc 
 
-and ...
+I see /bin/sh: 0: can't access tty; job control turned off
+
+=> using python -c 'import pty; pty.spawn("/bin/bash")' => to create bash 
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/c0670b92-cfa0-4edd-9b95-97f410a9a06c)
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/a5ab3545-c9f9-4364-86b1-9645f788c7ee)
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/b25b03b0-3b96-4b43-aa24-1a6164c8b9f0)
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/3b0c9284-c213-4310-9cc6-d3f339f2c2cc)
+
 
 Thanks for reading. Bye!
