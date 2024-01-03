@@ -27,4 +27,4 @@
 - tự làm
 ## Brooklyn 99 
 - README.md tự làm
-- README2.md xem writeup
+- README2.md xem writeup (stegseek để lấy được thông tin trong ảnh)
