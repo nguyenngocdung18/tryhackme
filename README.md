@@ -24,4 +24,7 @@
 - xem writeup cách dùng (sudo wget --use-askpass=$TF 0) trong: 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/1f419ee0-abc1-44de-978c-6078adf7214c)
 ## Crack the hash
--tự làm
+- tự làm
+## Brooklyn 99 
+- README.md tự làm
+- README2.md xem writeup
