@@ -33,4 +33,4 @@
 ## Cyborg
 - giải xong hàm băm rồi bị chững =(( đi xem writeup
 - phần nâng cao đặc quyền trong writeup nó tạo 1 user có quyền root trong passwd. làm theo nhưng mà không biết sao bị lỗi "authentication failure"
-=> thấy nó thực thi backup.sh để tạo user thì nghĩ là có khi cũng lấy shell được =)) thử lại được nên chốt luôn .còn tạo user kia vẫn lỗi. 
+=> thấy nó thực thi backup.sh để tạo user thì nghĩ là có khi cũng lấy shell được =)) thử lại được nên chốt luôn .còn cách tạo user kia vẫn lỗi. 
