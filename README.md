@@ -16,7 +16,7 @@
 ## Simple CTF
 - tự làm
 # 2-6/1/2024
-
+- Tomghost cóc chút lạ
 ## OhSINT
 - xem writeup cách dùng wigle.net
 - và tìm nơi anh ấy đã đi vào kỳ nghỉ nhưng blog đã không tồn tại nữa nên chỉ có thể xem qua writeup
@@ -34,3 +34,5 @@
 - giải xong hàm băm rồi bị chững =(( đi xem writeup
 - phần nâng cao đặc quyền trong writeup nó tạo 1 user có quyền root trong passwd. làm theo nhưng mà không biết sao bị lỗi "authentication failure"
 => thấy nó thực thi backup.sh để tạo user thì nghĩ là có khi cũng lấy shell được =)) thử lại được nên chốt luôn .còn cách tạo user kia vẫn lỗi. 
+## Tomghost
+- đọc writeup
