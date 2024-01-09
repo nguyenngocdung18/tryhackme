@@ -1,4 +1,4 @@
-Link room: https://tryhackme.com/room/agentsudoctf
+Link room: https://tryhackme.com/room/lazyadmin
 # SCANNING
 ## nmap
 
