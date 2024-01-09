@@ -1,3 +1,4 @@
+Link room: https://tryhackme.com/room/rrootme
 # Reconnaissance 
 ## use nmap
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/719659b4-72ef-47d6-b274-3b32346a4735)
