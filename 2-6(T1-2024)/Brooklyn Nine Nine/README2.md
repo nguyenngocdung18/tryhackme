@@ -1,3 +1,5 @@
+Link room: https://tryhackme.com/room/brooklynninenine
+
 I finished lab in README.md but I had a question. If it's that simple, why does the source page mention information hiding?
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/5bcaac9d-8463-4cc4-9562-46a1aa1abeb5)
