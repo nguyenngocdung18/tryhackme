@@ -1,3 +1,4 @@
+Link room: https://tryhackme.com/room/picklerick
 # SCANNING
 ## use  nmap
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/57f6d3da-a171-4857-a445-1deaaca9f1b2)
