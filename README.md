@@ -36,3 +36,8 @@
 => thấy nó thực thi backup.sh để tạo user thì nghĩ là có khi cũng lấy shell được =)) thử lại được nên chốt luôn .còn cách tạo user kia vẫn lỗi. 
 ## Tomghost
 - đọc writeup
+# 8-13/1/2024
+## Agent Sudo
+- tự làm
+## Bounty Hacker
+- tự làm
