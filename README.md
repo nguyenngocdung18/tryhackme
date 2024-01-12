@@ -41,3 +41,5 @@
 - tự làm
 ## Bounty Hacker
 - tự làm
+## Ignite
+- đọc writeup privilege escalation
