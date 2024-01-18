@@ -46,3 +46,6 @@
 ## Startup
 - đọc writeup đoạn Wireshark
 - hơi chưa hiểu lắm đoạn : sau khi dùng ```echo...``` để thêm vào print.sh thì mới ```cat /etc/print.sh``` (đồng thời đã ```nc -nlvp 9876``` từ trước rồi) thì đã kết nối thành công rồi :V  hơi lạ nhưng làm lại mấy lần vẫn vậy nên chắc nó có auto chạy scripts chăng =))))))
+# 15-20/1/2024
+## c4ptur3-th3-fl4g
+- tự làm
