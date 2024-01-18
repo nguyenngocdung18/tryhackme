@@ -49,3 +49,5 @@
 # 15-20/1/2024
 ## c4ptur3-th3-fl4g
 - tự làm
+## GamingServer
+- xem writeup nâng cao đặc quyền (lxd)
