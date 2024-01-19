@@ -36,7 +36,7 @@ continue using gobuster
 => !#th3h00d
 ## connect to ftp server
 with user: vigilante
-password: !#th3h00d
+<br>      password: !#th3h00d
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/7b7c1d08-906b-4315-8e56-0f047574e7a9)
 
@@ -56,7 +56,8 @@ open aa.jpg.out
 
 ## connect to ssh server
 with user: slade
-     password: M3tahuman
+<br>      password: M3tahuman
+     
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/395137ce-f29f-4069-bacc-de9a23f52424)
 
 # PRIVILEGE ESCALATION
