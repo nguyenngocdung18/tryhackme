@@ -54,3 +54,5 @@
 ## Lian_Yu
 - Lúc scanning dùng gobuster với common.txt có sẵn trong linux như bình thường thì chả ra cái gì mà lab nó cứ hỏi file, dir của web là gì :)))  đi xem writeup thì thấy phải dùng từ điển "directory-list-2.3-medium.txt" (hơn 200k kết quả và 400k với extension .ticketkèm thêm =))))) lâu điên. cái này bình thường hay dùng để bruteforce mật khẩu mà ta)  mới ra được file, dir của nó...
 - tìm thấy file, dir rồi thì còn lại không khó nên tự làm được 
+## Anthem
+- Xem writeup tên đăng nhập remote desktop ( =))) rõ ràng ở tab /umbraco/#/login dùng email đăng nhập được vào mà đăng nhập remote desktop lại không được :V hóa ra là chỉ lấy username là "SG" thôi chứ k cần cả cái email) và đoạn tìm file ẩn trên window
