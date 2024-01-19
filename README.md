@@ -56,3 +56,7 @@
 - tìm thấy file, dir rồi thì còn lại không khó nên tự làm được 
 ## Anthem
 - Xem writeup tên đăng nhập remote desktop ( =))) rõ ràng ở tab /umbraco/#/login dùng email đăng nhập được vào mà đăng nhập remote desktop lại không được :V hóa ra là chỉ lấy username là "SG" thôi chứ k cần cả cái email) và đoạn tìm file ẩn trên window
+## Source
+- Xem writeup
+## EasyPeasy
+- xem writeup nâng cao đặc quyền ( cat /etc/crontab)
