@@ -65,3 +65,5 @@
 # 22-27/1/2024
 ## ColddBox: Easy
 - Dùng burp suite để brute-force cái login form của wp cũng được nhưng mà đọc writeup thấy có công cụ wpscan chuyên dụng nên nó nhanh hơn =))) khá nhiều. xem cả write đoạn tìm ra cái wp-config.php để có mật khẩu của tài khoản c0ldd. 
+##  Git Happens
+- đọc writeup biết thêm công cụ dumper của GitTools
