@@ -69,3 +69,5 @@
 - đọc writeup biết thêm công cụ dumper của GitTools
 ## Team
 - xem writeup đoạn tìm openssh private key, chuyển sang user gyles, check bash_history.
+## Thompson
+- xem writeup dùng msfconsole lấy shell . còn lại dễ
