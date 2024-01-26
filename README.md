@@ -71,3 +71,5 @@
 - xem writeup đoạn tìm openssh private key, chuyển sang user gyles, check bash_history.
 ## Thompson
 - xem writeup dùng msfconsole lấy shell . còn lại dễ
+## Overpass
+- xem writeup đoạn lấy được private key. còn lại dễ
