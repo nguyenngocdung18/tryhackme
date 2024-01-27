@@ -16,7 +16,7 @@
 ## Simple CTF
 - tự làm
 # 2-6/1/2024
-- Tomghost cóc chút lạ
+- Tomghost có chút lạ
 ## OhSINT
 - xem writeup cách dùng wigle.net
 - và tìm nơi anh ấy đã đi vào kỳ nghỉ nhưng blog đã không tồn tại nữa nên chỉ có thể xem qua writeup
