@@ -80,3 +80,5 @@
 -xem writeup đoạn nó tìm ra cái web có chứa username, password để login. còn lại dễ
 ## Library 
 - tự làm, lâu rồi mới thấy 1 cái lab brute force mật khẩu ssh được =)))
+## Plotted-TMS
+- xem writeup privilege escalation.
