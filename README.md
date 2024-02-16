@@ -82,3 +82,5 @@
 - tự làm, lâu rồi mới thấy 1 cái lab brute force mật khẩu ssh được =)))
 ## Plotted-TMS
 - xem writeup privilege escalation.
+## Tony the Tiger
+- dùng cái file exploit nó cho sẵn thì không được. xem writeup kiếm cách exploit khác trên github (dùng jexboss)
