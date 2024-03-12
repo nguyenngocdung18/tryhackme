@@ -84,3 +84,6 @@
 - xem writeup privilege escalation.
 ## Tony the Tiger
 - dùng cái file exploit nó cho sẵn thì không được. xem writeup kiếm cách exploit khác trên github (dùng jexboss)
+# 2-9/3/2024
+## Flatline
+- Đọc writeup
