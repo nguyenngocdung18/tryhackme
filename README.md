@@ -87,4 +87,8 @@
 # 4-9/3/2024
 ## Flatline
 - Đọc writeup
-##
+## IDE
+- xem writeup đoạn ftp :))) nó toàn . \ .. \ ... tưởng không có gì ai dè có file tên "-" sau khi ```cd ...``` =)) hơi ẩu. không check kĩ.
+
+## Wordpress: CVE-2021-29447
+- Phần I: introduce =)) gần ngang writeup rồi. không có nhiều thứ để nói
