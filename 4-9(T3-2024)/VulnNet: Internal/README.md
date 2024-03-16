@@ -139,3 +139,5 @@ I use ```nc``` and click the run button
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/94d57cc7-bc7f-438c-a8d5-175fbf33527a)
 
 => root.txt
+## Done!!!
+Thanks for reading. Bye!
