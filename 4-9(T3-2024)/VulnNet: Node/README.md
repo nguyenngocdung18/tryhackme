@@ -57,6 +57,8 @@ I continue to encode with base 64 and sent it
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/8a202fb5-265d-47f8-a2bd-2b8186af6796)
 
+I read /etc/passwd and find username serv-manage.
+
 then I execute the command ``` sudo -u serv-manage /usr/bin/npm -C exploit/ --unsafe-perm i```
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/1096b819-ba79-46f9-ba77-3c4679ba98a9)
