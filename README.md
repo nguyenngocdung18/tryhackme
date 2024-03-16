@@ -97,6 +97,8 @@
 ## VulnNet: Roasted
 - xem writeup
 ## VulnNet: Node
+- đánh giá chủ quan thì nó quen hơn 2 cái VulnNet trên
+- xem writeup đoạn tìm "node serialize payload" để lấy được  shell www-data =))) băn khoăn mỗi đoạn đó còn lại thì dễ
 ## VulnNet
 ## VulnNet: Active
 ## VulnNet: dotjar
