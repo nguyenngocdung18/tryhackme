@@ -94,3 +94,10 @@
 ## VulnNet: Internal
 - hard đội lốt easy =)))))
 - xem writeup
+## VulnNet: Roasted
+- xem writeup
+## VulnNet: Node
+## VulnNet
+## VulnNet: Active
+## VulnNet: dotjar
+## VulnNet: dotpy
