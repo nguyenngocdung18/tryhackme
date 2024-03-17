@@ -100,6 +100,7 @@
 - đánh giá chủ quan thì nó quen hơn 2 cái VulnNet trên
 - xem writeup đoạn tìm "node serialize payload" để lấy được  shell www-data =))) băn khoăn mỗi đoạn đó còn lại thì dễ
 ## VulnNet
+- xem cách tra ra cái đường dẫn "/etc/apache2/sites-enabled/000-defdfault.conf" với đoạn sao chép các file trong /var/backups ra /tmp để có quyền giải nén file .tar.gz
 ## VulnNet: Active
 ## VulnNet: dotjar
 ## VulnNet: dotpy
