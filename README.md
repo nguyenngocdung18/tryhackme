@@ -102,5 +102,7 @@
 ## VulnNet
 - xem cách tra ra cái đường dẫn "/etc/apache2/sites-enabled/000-defdfault.conf" với đoạn sao chép các file trong /var/backups ra /tmp để có quyền giải nén file .tar.gz
 ## VulnNet: Active
+- xem writeup 
 ## VulnNet: dotjar
+
 ## VulnNet: dotpy
