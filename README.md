@@ -104,5 +104,6 @@
 ## VulnNet: Active
 - xem writeup 
 ## VulnNet: dotjar
-
+- Cách khai thác Apache Tomcat khá giống tomghost nên cũng dễ.
+- xem writeup đoạn nó tìm ra file "shadow-backup-alt.gz" trong /var/backups, còn lại lấy root thì tương tự lúc lấy web shell
 ## VulnNet: dotpy
