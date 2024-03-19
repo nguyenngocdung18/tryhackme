@@ -11,7 +11,8 @@ stty raw -echo; fg
 
 reset
 
-export TERM=xterm
+export TERM=xterm / export TERM=xterm-256color
+
 
 export SHELL=bash
 
