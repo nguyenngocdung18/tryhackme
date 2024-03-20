@@ -108,3 +108,7 @@
 - xem writeup đoạn nó tìm ra file "shadow-backup-alt.gz" trong /var/backups, còn lại lấy root thì tương tự lúc lấy web shell
 ## VulnNet: dotpy
 - xem write kiếm được (Server-Side Template Injection)ssti exploit payload
+# 18-23/3/2024
+## SQL Injection
+## Relevant
+## Anonymous
