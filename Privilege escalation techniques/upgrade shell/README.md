@@ -16,5 +16,3 @@ export TERM=xterm / export TERM=xterm-256color
 
 export SHELL=bash
 
-# TTY shell
-python3 -c 'import pty; pty.spawn("/bin/bash")'
