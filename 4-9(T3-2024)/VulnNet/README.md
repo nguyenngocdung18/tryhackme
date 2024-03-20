@@ -96,7 +96,7 @@ I try ```sudo -nl``` command to check permission. But it require password
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/d3cc34a8-6d21-4aa5-a2f1-add8b4997e52)
 
-I use ```find / -type f -user server-management -exec ls -l {} + 2>/dev/null``` command. It's used to find all the files that the user manages the server and displays information about them using the ls -l command.
+I use ```find / -type f -user server-management -exec ls -l {} + 2>/dev/null``` command. It's used to find all the files that the user server-management and displays information about them using the ls -l command.
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/e0f13425-065a-46ba-8584-c9fb48b8b43f)
 
