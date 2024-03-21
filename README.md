@@ -114,3 +114,5 @@
 ## Relevant
 - Xem writeup
 ## Anonymous
+- Tự làm :v
+- Cảm giác nó nghiêng về độ khó easy hơn là medium nếu so với các medium khác
