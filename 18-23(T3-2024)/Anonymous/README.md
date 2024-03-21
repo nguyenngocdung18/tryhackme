@@ -50,6 +50,10 @@ I also try reading /etc/crontab but I don't get anything useful
 
 => /usr/bin/env
 
+Going to GTFOBins website
+
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/9fb48627-5e1d-4bc5-876e-1eb96db99385)
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/72ad5dd9-35cb-4e33-8e57-312d97f88df9)
 
 => root.txt
