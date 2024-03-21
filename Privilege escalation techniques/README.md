@@ -8,3 +8,4 @@ Here I will list the privilege escalation techniques that I know
 - ```sudo -l``` or ```sudo -nl``` to check
 ## 	Setuid and Setgid
 - ```find / -type f -perm -4000 2>/dev/null```
+- ```find / -user root -perm -u=s 2>/dev/null```
