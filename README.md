@@ -110,5 +110,7 @@
 - xem write kiếm được (Server-Side Template Injection)ssti exploit payload
 # 18-23/3/2024
 ## SQL Injection
+- phần intro có hết rồi
 ## Relevant
+- Xem writeup
 ## Anonymous
