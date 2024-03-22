@@ -117,6 +117,8 @@
 - Tự làm :v
 - Cảm giác nó nghiêng về độ khó easy hơn là medium nếu so với các medium khác
 ## BoilerCTF
+- Khá dễ
+- xem writeup đoạn search "sar2html" =))) không nghĩ tới lỗi ở đấy. 
 ## Blog
 ## HackerNote
 ## Watcher
