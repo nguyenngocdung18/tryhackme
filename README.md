@@ -120,5 +120,6 @@
 - Khá dễ
 - xem writeup đoạn search "sar2html" =))) không nghĩ tới lỗi ở đấy. 
 ## Blog
+- xem writeup nâng cao đặc quyền (cách khai thác /usr/sbin/checker) :v
 ## HackerNote
 ## Watcher
