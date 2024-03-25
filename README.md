@@ -122,4 +122,5 @@
 ## Blog
 - xem writeup nâng cao đặc quyền (cách khai thác /usr/sbin/checker) :v
 ## HackerNote
+- Chỉ là 1 bài giới thiệu, cứ làm theo các bước, trả lời từng câu hỏi là ra
 ## Watcher
