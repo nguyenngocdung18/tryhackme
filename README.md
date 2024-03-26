@@ -124,3 +124,7 @@
 ## HackerNote
 - Chỉ là 1 bài giới thiệu, cứ làm theo các bước, trả lời từng câu hỏi là ra
 ## Watcher
+- xem writeup phần flag 6 :python-library-hijacking
+- Khi dùng ```sudo -l``` :
+  "(will) NOPASSWD: /usr/bin/python3 /home/mat/scripts/will_script.py *"
+  Không để ý tới cái đối số * nên dùng câu lệnh ```sudo -u will /usr/bin/python3 /home/mat/scripts/will_script.py 1" thiếu số 1 =((((
