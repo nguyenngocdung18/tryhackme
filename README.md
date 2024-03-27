@@ -128,3 +128,8 @@
 - Khi dùng ```sudo -l``` :
   "(will) NOPASSWD: /usr/bin/python3 /home/mat/scripts/will_script.py *"
   Không để ý tới cái đối số * nên dùng câu lệnh ```sudo -u will /usr/bin/python3 /home/mat/scripts/will_script.py 1" thiếu số 1 =((((
+
+# 25-30/3/2024
+## The Marketplace
+- xem writeup
+##
