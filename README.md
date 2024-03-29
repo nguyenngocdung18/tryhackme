@@ -133,6 +133,7 @@
 ## The Marketplace
 - xem writeup
 ## Nax
+- xem writeup nó kiếm ra công cụ npiet để khai thác cái file .ppm
 ## CMesS
 ## Gatekeeper
 ## Daily Bugle
