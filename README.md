@@ -137,8 +137,13 @@
 ## CMesS
 - xem writeup đoạn leo thang đặc quyền
 ## Gatekeeper
+- xem writeup
 ## Daily Bugle
+- Tự làm.
+- khá dễ
 ## Internal
+- Lấy user flag khá dễ
+- Xem writeup leo thang đặc quyền lấy root flag
 ## Brainpan
 ## Year of the Jellyfish
 ## Year of the Fox
