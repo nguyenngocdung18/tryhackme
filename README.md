@@ -135,6 +135,7 @@
 ## Nax
 - xem writeup nó kiếm ra công cụ npiet để khai thác cái file .ppm
 ## CMesS
+- xem writeup đoạn leo thang đặc quyền
 ## Gatekeeper
 ## Daily Bugle
 ## Internal
