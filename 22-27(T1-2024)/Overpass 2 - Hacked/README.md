@@ -1,5 +1,5 @@
 Link room: https://tryhackme.com/room/overpass2hacked
-# ENUMERATING
+# Task 1
 ## using Wireshark
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/bfef944e-72d5-48e0-970a-183796bccc39)
@@ -30,7 +30,7 @@ View next stream
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/c1cbb82d-c64e-4466-b2b3-71b91d8057a4)
 
 => 4
-# EXPLOITING
+# Task 2
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/d84b7bd2-b07e-4a30-ba21-928ae29a5c1d)
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/3cbdc1c8-3f70-47a5-a0c8-80e858d1b616)
@@ -65,6 +65,7 @@ View main.go
 
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/99329876-a978-47f0-acbd-10d0c6ad2e53)
 
+## PRIVILEGE ESCALATION
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/5b9dee58-e93c-4e05-9f46-3d74eacf2178)
 
 => root.txt
