@@ -76,24 +76,7 @@
 ## Cat Pictures
 - xem write up đoạn chạy file runme
 ## Overpass 2 - Hacked
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- gần như là có hết trong file .pcapng rồi 
 
 ## Overpass 3 - Hosting
 
