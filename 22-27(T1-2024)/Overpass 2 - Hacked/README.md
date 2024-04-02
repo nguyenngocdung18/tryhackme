@@ -66,6 +66,10 @@ View main.go
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/99329876-a978-47f0-acbd-10d0c6ad2e53)
 
 ## PRIVILEGE ESCALATION
+Go to GTFOBins website
+
+![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/3a03df28-db2e-4249-9830-949080f73c6d)
+
 ![image](https://github.com/nguyenngocdung18/tryhackme/assets/134156226/5b9dee58-e93c-4e05-9f46-3d74eacf2178)
 
 => root.txt
