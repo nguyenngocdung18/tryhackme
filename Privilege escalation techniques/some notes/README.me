@@ -6,3 +6,6 @@
 + echo "" > "--checkpoint-action=exec=sh + tên file" 
 
 => xác định hành động được thực hiện khi một điểm kiểm tra (checkpoint) được tạo
+
+## tìm file
++ ```find / -type f -name "*flag*" -exec ls -l {} + 2>/dev/null```
