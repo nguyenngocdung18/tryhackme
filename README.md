@@ -79,24 +79,7 @@
 - gần như là có hết trong file .pcapng rồi 
 
 ## Overpass 3 - Hosting
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- tự tìm được mỗi web.flag =)) còn lại xem writeup
 
 # 29-3/2/2024
 ## Dav
